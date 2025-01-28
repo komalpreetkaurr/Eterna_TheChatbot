@@ -54,9 +54,8 @@ pip install -r requirements.txt
 If using a frontend interface, navigate to the `frontend/` directory:  
 ```bash  
 cd frontend  
-npm install 
-
----
+npm install  
+```  
 
 ## Running the Chatbot  
 
@@ -84,7 +83,7 @@ For a browser-based interface:
 Once running, interact with the chatbot in the following ways:  
 
 ### Text-based Interaction  
-Type questions or commands, and the bot will respond.  
+Type questions or commands, and the bot will respond.   
 
 ---
 
